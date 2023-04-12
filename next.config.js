@@ -7,6 +7,5 @@ module.exports = {
   images: {
     unoptimized: true
   },
-  output: "export",
-  assetPrefix: '/trello-kanban/'
+  output: "export"
 }
