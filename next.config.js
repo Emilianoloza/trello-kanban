@@ -3,4 +3,11 @@ const nextConfig = {
   reactStrictMode: true,
 }
 
-module.exports = nextConfig
+module.exports = {
+  images: {
+    unoptimized: true
+  },
+  output: {
+    export: true
+  }
+}
