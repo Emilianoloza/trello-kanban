@@ -9,5 +9,7 @@ module.exports = {
   },
   output: {
     export: true
-  }
+  },
+  basePath: '/trello-kanban',
+  assetPrefix: '/trello-kanban/'
 }
